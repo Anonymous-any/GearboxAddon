@@ -82,12 +82,10 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_ENABLED"            text="on"/>
 		<text name="gearboxMogliTEXT_POWERSHIFT"         text="powershift automatique"/>
 		<text name="gearboxMogliTEXT_N_A"                text="n/c"/>
-
 		<text name="gearboxMogliTEXT_DrawTargetRpm"      text="afficher les RPM"/>
 		<text name="gearboxMogliTEXT_DrawReqPower"       text="afficher la puissance"/>
 		<text name="gearboxMogliTEXT_EnableAI"           text="cacher ouvrier"/>
 		<text name="gearboxMogliTEXT_SwapGearRangeKeys"  text="échanger vitesses ou gamme 1"/>
-
 		<text name="gearboxMogliTEXT_AllAutoMode"        text="paramètres simplifiés"/>
 		<text name="gearboxMogliTEXT_AllAutoMode_0"      text="séquentielle"/>
 		<text name="gearboxMogliTEXT_AllAutoMode_1"      text="vitesses"/>
@@ -98,7 +96,7 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_AllAutoMode_6"      text="gammes 1 et 2"/>
 		<text name="gearboxMogliTEXT_AllAutoMode_7"      text="vitesses, gammes 1 et 2"/>
 	
-		<text name="gearboxMogliTEXT_DiffLock"           text="Verrouiller différentiel"/>	
+		<text name="gearboxMogliTEXT_DiffLock"           text="Verrouiller différentiel"/>
 		<text name="gearboxMogliTEXT_DiffLock_2wd"       text="2RM"/>
 		<text name="gearboxMogliTEXT_DiffLock_4wd"       text="4RM"/>
 		<text name="gearboxMogliTEXT_DiffLock_open"      text="décraboté"/>
@@ -111,7 +109,7 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_GearShifter_both"   text="G27 et touches"/>
 		<text name="gearboxMogliTEXT_GearShifter_key"    text="touches"/>
 		<text name="gearboxMogliTEXT_GearShifter_G27"    text="G27"/>
-	
+		
 		<text name="gearboxMogliTEXT_ShuttleShifterMode" text="boutons av-/arrière"/>
 		<text name="gearboxMogliTEXT_Shuttle_both"       text="échanger et séparer"/>
 		<text name="gearboxMogliTEXT_Shuttle_toggle"     text="échanger bouton"/>
@@ -122,7 +120,6 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_RangeShifter_toggle"	 text="échanger bouton"/>
 		<text name="gearboxMogliTEXT_RangeShifter_high_on" text="gamme haute si activé"/>
 		<text name="gearboxMogliTEXT_RangeShifter_low_on"	 text="gamme basse si activé"/>
-		
 		<text name="gearboxMogliTEXT_MinTargetRpm"       text="cible mini RPM"/>
 		<text name="gearboxMogliTEXT_MaxTargetRpm"       text="cible maxi RPM"/>
 		<text name="gearboxMogliTEXT_MatchGears"         text="vitesse conforme (rapports)"/>
@@ -130,7 +127,7 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_MATCH_1"            text="non conforme"/>
 		<text name="gearboxMogliTEXT_MATCH_2"            text="seulement au début ou fin"/>
 		<text name="gearboxMogliTEXT_MATCH_3"            text="conforme automatiquement"/>
-
+		
 		<!-- page headers -->
 		<text name="gearboxMogliTIP_Settings"            text="paramètres 1"/>
 		<text name="gearboxMogliTIP_Settings2"           text="paramètres 2"/>
@@ -168,7 +165,7 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTIP_ResetRevRange"       text="départ gamme 1 en arrière"/>
 		<text name="gearboxMogliTIP_ResetFwdRange2"      text="départ gamme 2 en avant"/>
 		<text name="gearboxMogliTIP_ResetRevRange2"      text="départ gamme 2 en arrière"/>
-		                                                
+		
 		<text name="gearboxMogliTEXT_MinAutoGearSpeed"   text="min rapport vitesse"/>
 		<text name="gearboxMogliTEXT_MaxAutoGearSpeed"   text="max rapport vitesse"/>
 		<text name="gearboxMogliTEXT_ResetFwdGear"       text="commencer à avancer"/>
@@ -177,14 +174,13 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_ResetRevRange"      text="départ gamme 1 en arrière"/>
 		<text name="gearboxMogliTEXT_ResetFwdRange2"     text="départ gamme 2 en avant"/>
 		<text name="gearboxMogliTEXT_ResetRevRange2"     text="départ gamme 2 en arrière"/>
-		
+
 		<text name="gearboxMogliTIP_EcoMode"             text="En mode éco, les moteurs sont optimisés pour une consommation minimale"/>
 		<text name="gearboxMogliTEXT_EcoMode"            text="mode eco"/>
 		<text name="gearboxMogliTIP_AccelerateToLimit"   text="Niveau maximum pour ajuster la vitesse au régulateur de vitesse"/>
 		<text name="gearboxMogliTEXT_AccelerateToLimit"  text="niveau du régulateur de vitesse"/>
 		<text name="gearboxMogliTIP_ShuttleFactor"       text="Sensibilité du circuit d'inversion"/>		
 		<text name="gearboxMogliTEXT_ShuttleFactor"      text="sensibilité du circuit d'inversion"/>		
-
 		<text name="gearboxMogliTEXT_GrindingClutch"     text="ne peut pas changer de vitesse; embrayage"/>
 		<text name="gearboxMogliTEXT_GrindingSpeed"      text="ne peut pas changer de vitesse; vitesse"/>
 		<text name="gearboxMogliTEXT_DoubleClutch"       text="ne peut pas changer de vitesse; RPM"/>
@@ -193,7 +189,15 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliTEXT_Stall3"             text="la prise de force nécessite plus de puissance"/>
 		<text name="gearboxMogliTEXT_Stall4"             text="le moteur a calé car la prise de force nécessite plus de puissance"/>
 		<text name="gearboxMogliTEXT_ClutchOverheating"  text="l'embrayage surchauffe"/>
-
+		<text name="gearboxMogliTIP_SlipPlough"          text="Les roues qui glissent creusent le sol comme une charrue"/>
+		<text name="gearboxMogliTEXT_SlipPlough"         text="roues glissantes"/>
+		<text name="gearboxMogliTEXT_SlipPlough_1"       text="champ"/>
+		<text name="gearboxMogliTEXT_SlipPlough_2"       text="partout"/>
+		<text name="gearboxMogliTEXT_SlipPlough_3"       text="même sur l'herbe"/>
+		<text name="gearboxMogliTIP_ManualDiffLock"      text="Les différentiels peuvent être verrouillés manuellement"/>
+		<text name="gearboxMogliTEXT_ManualDiffLock"     text="blocage de différentiel manuel"/>
+		<text name="gearboxMogliTIP_ClutchSpeed"         text="Réaction du bouton de vitesse d'embrayage"/>
+		<text name="gearboxMogliTEXT_ClutchSpeed"        text="Bouton de vitesse d'embrayage"/>
 		<!-- texts in the HUD => keep them short -->
 		<text name="gearboxMogliDRAW_difflock"           text="Crabot"/>
 		<text name="gearboxMogliDRAW_maxSpeed"           text="Vitesse Max"/>
@@ -209,25 +213,20 @@ Améliore toute les conduites de véhicules grâce à l'implémentation de la bo
 		<text name="gearboxMogliDRAW_fixed"              text="Cor. de rapport"/>
 		<text name="gearboxMogliDRAW_combine"            text="Moissoneuse"/>
 		<text name="gearboxMogliDRAW_wheelSlip"          text="Patinage"/>
-
 		<text name="gearboxMogliUNIT_rpm"                text="RPM"/>
 		<text name="gearboxMogliUNIT_HP"                 text="CV"/>
 		<text name="gearboxMogliUNIT_kph"                text="km/h"/>
 		<text name="gearboxMogliUNIT_mph"                text="mph"/>
 		<text name="gearboxMogliUNIT_lph"                text="l/h"/>
 		<text name="gearboxMogliUNIT_lp100km"            text="l/100km"/>
-		<text name="gearboxMogliUNIT_tph"                text="t/h"/>
-		
+		<text name="gearboxMogliUNIT_tph"                text="t/h"/>		
 	</texts>
 	
 	<longTexts>
 		<longText name="gearboxMogliHelp_1"><![CDATA[
 Chaque tracteur n'a pas de transmission à variation continue. Et même les transmissions à variation continue ne sont pas aussi simples à construire que la norme FS15. Ce mod ajoute sur la base d'un fichier gearboxAddonConfig.xml une boîte de vitesses configurable à tous les véhicules. De nombreux types de transmission différentes peuvent être simulés. Il existe des boîtes de vitesses classiques avec engrenages, une ou deux gammes et inverser les vitesses ou les gammes. Raccourcir le temps de réponse à zéro entraînera une transmission de puissance. Dans les tracteurs modernes, les transmissions à changement de vitesse sont souvent associées à un changement automatique de vitesses.
-
 Ajouté à cela, un autre type de transmission est la transmission à variation continue. Il existe des modèles avec une ou deux vitesses comme le Fendt Vario. D'autres modèles combinent quatre engrenages mécaniques automatiquement commutés avec un entraînement hydrostatique à variation continue. Toutes ces transmissions continuellement variables ont une chose en commun: le rendement varie fortement selon le rapport de démultiplication.
-
 Il est aussi ajouté des modes tels que AllAuto et ECO. Dans le mode ECO le véhicule a toujours le couple maximum avec seulement 90% de puissance pour économiser du carburant. En AllAuto la boite de vitesse passe les rapports automatiquement.
 ]]></longText>
 	</longTexts>
-
 </l10n>
